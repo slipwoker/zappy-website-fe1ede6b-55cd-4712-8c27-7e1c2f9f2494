@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://-fe1ede6b.zappy5.app
+https://example.com
 חנות תכשיטים אונליין מובילה עם קולקציות מעוצבות לכל רגע בחיים. איכות ללא פשרות, שירות אישי ומשלוחים מהירים. הצטרפי עכשיו לחוויית קמעונאות יוקרתית!
 
 ### קולקציות
-https://-fe1ede6b.zappy5.app/collections
+https://example.com/collections
 גלי קולקציות תכשיטים מרהיבות מפנדורה ועד עיצובים בלעדיים. כל פריט מספר סיפור של סטייל ואלגנטיות. היכנסי עכשיו ומצאי את התכשיט שמחכה לך!
 
 ### אודות
-https://-fe1ede6b.zappy5.app/about
+https://example.com/about
 בואי להכיר את תכשיטי שרף, חנות קמעונאית עם תשוקה אמיתית לתכשיטים שמביאים אור לחיים. גלי את החזון, האיכות והאהבה שמאחורי כל פריט. הסיפור שלנו מחכה לך!
 
 ### צור קשר
-https://-fe1ede6b.zappy5.app/contact
+https://example.com/contact
 יש לך שאלה על תכשיט? רוצה ייעוץ אישי? צרי קשר עם תכשיטי שרף ותקבלי מענה מקצועי ומהיר. אנחנו כאן כדי להפוך כל רכישה לחוויה מושלמת. כתבי לנו עכשיו!
 
 ### תודה שפניתם אלינו
-https://-fe1ede6b.zappy5.app/thank-you
+https://example.com/thank-you
 תכשיטי שרף - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-fe1ede6b.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-fe1ede6b.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-fe1ede6b.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-fe1ede6b.zappy5.app/contact
-- Endpoint: https://-fe1ede6b.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -75,6 +75,6 @@ Jewelry Retail
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-fe1ede6b.zappy5.app/sitemap.xml
-- Robots: https://-fe1ede6b.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-fe1ede6b.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
